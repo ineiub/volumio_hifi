@@ -1,5 +1,5 @@
 # 3D Printable HiFi
-
+![image1](/large_display_IMG_4339.webp)
 The "Printable mini HiFi" is a compact and aesthetically pleasing DIY audio system designed for 3D printing. 
 This project was born from a desire to recycle existing electronic components, resulting in a functional and satisfying piece of technology. 
 At its core, the system utilizes a Raspberry Pi 3 Model B running Volumio for a clean and user-friendly interface, displayed on a 7" LCD screen. 
